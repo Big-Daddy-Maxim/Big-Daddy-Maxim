@@ -20,9 +20,6 @@
 ## 🚀 Опыт работы и проекты
 
 **2025**  
-**Telegram-бот для ответов на вопросы по документации**  
-Разработал бота, интегрированного с Yclients и Google Sheets. Реализовал модуль сертификации (создание, активация, удаление сертификатов).  
-*Технологии: Python, Google Sheets API, Yclients API, JSON*  
 **Telegram-бот для стартапа Bondio**  
 Создал локальную базу данных с SQLAlchemy и настроил интеграцию с Google Sheets для синхронизации данных.  
 *Технологии: Python, SQLAlchemy, Google Sheets API, SQLite*    
